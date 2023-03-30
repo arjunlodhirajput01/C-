@@ -28,3 +28,22 @@ int main()
     
     return 0;
 }    
+
+    
+3rd Code
+
+#include<iostream>
+using namespace std;
+
+int main()
+{
+    int a = 14;
+    int b = 15;
+    float pi = 3.15;
+    char ch = 'c';
+    
+    cout<<"\nHere the value of a is "<<a<<" \nThe Value of b is "<<b;
+    cout<<"\nThe value of pie is "<<pi;
+    cout<<"\nThe value of char is "<<ch;
+    return 0;
+}    
