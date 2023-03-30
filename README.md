@@ -14,3 +14,17 @@ int main() {
 }
   
   
+Second Code 
+    
+#include<iostream>
+using namespace std;
+
+int main()
+{
+    int a = 14;
+    int b = 15;
+    
+    cout<<"Here the value of a is "<<a<<" The Value of b is "<<b;
+    
+    return 0;
+}    
