@@ -261,3 +261,23 @@ int main()
     cout<<c;
     return 0;
 }
+
+10th Code
+    
+#include<iostream>
+using namespace std;
+
+int main()
+{
+    int age;
+    cout<<"Tell me your age :"<<endl;
+    cin>>age;
+    if(age<18)
+    cout<<"You are not allowed to enter in party"<<endl;
+    else if(age==18)
+    cout<<"You are still not allowed to enter in party"<<endl;
+    else{
+        cout<<"You are allowed to enter in party"<<endl;
+    }
+    return 0;
+}    
